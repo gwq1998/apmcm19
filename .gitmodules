@@ -1,0 +1,3 @@
+[submodule "thesis"]
+	path = thesis
+	url = https://github.com/vtta/apmcm19-thesis
